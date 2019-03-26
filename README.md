@@ -3,30 +3,19 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course. 
 
+## Course Content
 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+Course materials are categorized in the following folders:
 
 ```
-Handouts
-Quizzes
-Homeworks
-Slides
-Code
+code
+handouts
+homeworks
+quizzes
+slides
+
 ```
 
-
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
