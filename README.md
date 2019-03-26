@@ -24,7 +24,7 @@ slides
 
 ## Authors
 
-* **Daniel D. Gutierrez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Daniel D. Gutierrez** - [LinkedIn](https://www.linkedin.com/in/ddgutierrez/)
 
 ## License
 
