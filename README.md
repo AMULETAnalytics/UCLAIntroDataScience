@@ -19,8 +19,8 @@ slides
 ## Supplemental Materials
 
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
+* [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 
 ## Authors
 
@@ -30,8 +30,4 @@ slides
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
