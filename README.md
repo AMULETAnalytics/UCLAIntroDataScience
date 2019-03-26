@@ -1,10 +1,8 @@
 # UCLA Intro Data Science
-UCLA Extension Introduction to Data Science class materials
+UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Use this repo to access handouts,
+assignments, slides, and code. 
 
 
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
