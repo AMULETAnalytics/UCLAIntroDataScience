@@ -23,6 +23,8 @@ slides
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
+* [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
+
 
 ## Authors
 
