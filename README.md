@@ -24,6 +24,7 @@ slides
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
+*[Industrial Research in Applied Statistics- AMS](https://www.ams.org/journals/notices/201904/rnoti-p507.pdf) - Nice article about being a data scientist.
 
 
 ## Authors
