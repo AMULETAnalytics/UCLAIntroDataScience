@@ -7,6 +7,10 @@ throughout the course.
 
 SPECIAL OFFER! My book publisher has offered to sell the textbook for our class with a special 25% off student discount. Just click [HERE](https://technicspub.com/machine-learning-and-data-science/) and use coupone code "Gutierrez2019" 
 
+4/8/2019 - HOMEWORK #1 has been posted, please download now. It will be due in 2 weeks. You must submit via e-mail a 
+single R script file with your answers. Please include the results of your R code as comments in the R script file.  
+
+
 ## Course Content
 
 Course materials are categorized in the following folders:
