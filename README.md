@@ -29,6 +29,7 @@ slides
 ## Supplemental Materials
 
 * [Becoming a Data Scientist](https://towardsdatascience.com/becoming-a-data-scientist-when-dan-becker-pointed-out-i-had-it-all-wrong-86fb81397e8c) - Important pointers by head of Kaggle Learn, Dan Becker, Ph.D.
+* [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
 * [How to Get Your Data Science Career Started](https://www.forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started/#6dc0a75e7e5c) - Nice Forbes article on how jump start into Data Science
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R"
 * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
