@@ -13,6 +13,9 @@ your answers. Please include the results of your R code as comments in the R scr
 4/15/2019 - UPDATE on HOMEWORK #1 - you'll have an extra week to complete this assignment. For my Tuesday class it will
 be due on April 30, and for my Thursday class it will be due on May 2. 
 
+4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
+tak a look at the R functions: Sys.time() and as.POSIXct()
+
 ## Course Content
 
 Course materials are categorized in the following folders:
