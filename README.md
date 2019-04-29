@@ -5,16 +5,25 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
-SPECIAL OFFER! My book publisher has offered to sell the textbook for our class with a special 25% off student discount. Just click [HERE](https://technicspub.com/machine-learning-and-data-science/) and use coupon code "Gutierrez2019" 
+4/29/2019 - HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 14, and 
+Thursday night class, May 16. 
 
-4/8/2019 - HOMEWORK #1 has been posted, please download now. You must submit via e-mail a single R script file with 
-your answers. Please include the results of your R code as comments in the R script file.  
+4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
+tak a look at the R functions: Sys.time() and as.POSIXct()
 
 4/15/2019 - UPDATE on HOMEWORK #1 - you'll have an extra week to complete this assignment. For my Tuesday class it will
 be due on April 30, and for my Thursday class it will be due on May 2. 
 
-4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
-tak a look at the R functions: Sys.time() and as.POSIXct()
+4/8/2019 - HOMEWORK #1 has been posted, please download now. You must submit via e-mail a single R script file with 
+your answers. Please include the results of your R code as comments in the R script file.  
+
+SPECIAL OFFER! My book publisher has offered to sell the textbook for our class with a special 25% off student discount. Just click [HERE](https://technicspub.com/machine-learning-and-data-science/) and use coupon code "Gutierrez2019" 
+
+
+
+
+
+
 
 ## Course Content
 
