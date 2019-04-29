@@ -31,6 +31,7 @@ slides
 
 ## Supplemental Materials
 
+* [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
 * [What is Data Science 'Impostor Syndrome'?](https://studyonline.unsw.edu.au/blog/what-is-data-science-impostor-syndrome) - Avoid the fear of what you don't know
 * [Becoming a Data Scientist](https://towardsdatascience.com/becoming-a-data-scientist-when-dan-becker-pointed-out-i-had-it-all-wrong-86fb81397e8c) - Important pointers by head of Kaggle Learn, Dan Becker, Ph.D.
 * [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
