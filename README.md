@@ -5,6 +5,10 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
+4/30/2019 - Below is the office UCLA statement regarding the measles issue reported recently in the news:
+
+“Campus epidemiologists and top health experts have been working very closely with local public health officials to ensure that notifications are made and proper care is provided to all who might be affected. Most of those individuals have since been cleared, but we are still awaiting medical records from 119 students and eight faculty members to determine whether they are immune to the measles. As a result, LACDPH has decided to quarantine those individuals until their immunity is determined. We expect that those notified will be quarantined for approximately 24–48 hours until their proof of immunity is established. Considering the time that has elapsed since the last possible exposure to the individual with measles on April 9, the highest risk period for developing measles has already passed — and the period during which symptoms may appear is nearing the end. I know there is concern about measles, particularly among the very small percentage of our community who have not been vaccinated. Please be assured that we have the resources we need for prevention and treatment, and that we are working very closely with local public health officials on the matter.”
+
 4/29/2019 - HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 14, and 
 Thursday night class, May 16. 
 
