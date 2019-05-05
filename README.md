@@ -7,10 +7,6 @@ throughout the course.
 
 5/3/2019 - It is imperative that students turn in answers for Homework #1 now. I will be posting solutions for the assignment soon. After that point, submissions will no longer be accepted. 
 
-4/30/2019 - Below is the official UCLA statement regarding the measles issue reported recently in the news:
-
-“Campus epidemiologists and top health experts have been working very closely with local public health officials to ensure that notifications are made and proper care is provided to all who might be affected. Most of those individuals have since been cleared, but we are still awaiting medical records from 119 students and eight faculty members to determine whether they are immune to the measles. As a result, LACDPH has decided to quarantine those individuals until their immunity is determined. We expect that those notified will be quarantined for approximately 24–48 hours until their proof of immunity is established. Considering the time that has elapsed since the last possible exposure to the individual with measles on April 9, the highest risk period for developing measles has already passed — and the period during which symptoms may appear is nearing the end. I know there is concern about measles, particularly among the very small percentage of our community who have not been vaccinated. Please be assured that we have the resources we need for prevention and treatment, and that we are working very closely with local public health officials on the matter.”
-
 4/29/2019 - HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 14, and 
 Thursday night class, May 16. 
 
@@ -46,6 +42,7 @@ slides
 
 ## Supplemental Materials
 
+* [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
 * [What is Data Science 'Impostor Syndrome'?](https://studyonline.unsw.edu.au/blog/what-is-data-science-impostor-syndrome) - Avoid the fear of what you don't know
 * [Becoming a Data Scientist](https://towardsdatascience.com/becoming-a-data-scientist-when-dan-becker-pointed-out-i-had-it-all-wrong-86fb81397e8c) - Important pointers by head of Kaggle Learn, Dan Becker, Ph.D.
