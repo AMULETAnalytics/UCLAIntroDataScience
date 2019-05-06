@@ -42,6 +42,7 @@ slides
 
 ## Supplemental Materials
 
+* [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
 * [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
 * [What is Data Science 'Impostor Syndrome'?](https://studyonline.unsw.edu.au/blog/what-is-data-science-impostor-syndrome) - Avoid the fear of what you don't know
