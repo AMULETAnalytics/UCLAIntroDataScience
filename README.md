@@ -7,8 +7,8 @@ throughout the course.
 
 5/3/2019 - It is imperative that students turn in answers for Homework #1 now. I will be posting solutions for the assignment soon. After that point, submissions will no longer be accepted. 
 
-4/29/2019 - HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 14, and 
-Thursday night class, May 16. 
+4/29/2019 - UPDATED! HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 21, and 
+Thursday night class, May 23. 
 
 4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
 tak a look at the R functions: Sys.time() and as.POSIXct()
