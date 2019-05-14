@@ -5,6 +5,8 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
+5/13/2019 - Please note that an alternate class project document has been posted, along with the solutions to HW #1
+
 5/3/2019 - It is imperative that students turn in answers for Homework #1 now. I will be posting solutions for the assignment soon. After that point, submissions will no longer be accepted. 
 
 4/29/2019 - UPDATED! HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 21, and 
