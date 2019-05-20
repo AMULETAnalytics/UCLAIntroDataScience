@@ -46,7 +46,7 @@ slides
 
 ## Supplemental Materials
 
-* [Tutorial: data.table](https://www.dezyre.com/data-science-in-r-programming-tutorial/r-data-table-tutorial) - Data.table is an extension of data.frame package in R
+* [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
 * [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
