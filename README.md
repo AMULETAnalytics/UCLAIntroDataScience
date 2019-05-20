@@ -46,6 +46,7 @@ slides
 
 ## Supplemental Materials
 
+* [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
 * [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
 * [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
