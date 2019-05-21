@@ -5,13 +5,15 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
+5/20/2019 - UPDATE! HOMEWORK #3 has been posted, please download now. The assignment is due: Tuesday night class, June 4, and Thursday night class, June 6.
+
 5/17/2019 - HOMEWORK #2 UPDATE: for question #9 you may use the scatterplot3d package instead of rcmdr. 
 
 5/13/2019 - Please note that an alternate class project document has been posted, along with the solutions to HW #1
 
 5/3/2019 - It is imperative that students turn in answers for Homework #1 now. I will be posting solutions for the assignment soon. After that point, submissions will no longer be accepted. 
 
-4/29/2019 - UPDATED! HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 21, and 
+4/29/2019 - UPDATE! HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 21, and 
 Thursday night class, May 23. 
 
 4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
