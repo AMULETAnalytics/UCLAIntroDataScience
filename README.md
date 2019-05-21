@@ -46,6 +46,7 @@ slides
 
 ## Supplemental Materials
 
+* [Book Review: Deep Learning Revolution](https://insidebigdata.com/2019/03/05/book-review-deep-learning-revolution-by-terrence-j-sejnowski/) - Nice deep learning book for a general audience.
 * [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
