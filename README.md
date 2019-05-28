@@ -51,7 +51,7 @@ slides
 
 ## Supplemental Materials
 
-* [Linear Regression with Healthcare Data for Beginners in R] (https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
+* [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
 * [Book Review: Deep Learning Revolution](https://insidebigdata.com/2019/03/05/book-review-deep-learning-revolution-by-terrence-j-sejnowski/) - Nice deep learning book for a general audience.
 * [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
