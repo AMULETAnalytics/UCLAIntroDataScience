@@ -49,6 +49,7 @@ slides
 ## Supplemental Materials
 
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
+* [SLIDES from LA West R Meetup group](https://github.com/laRusers/presentations/blob/master/2019-05-28-better-than-dl-gbm/gbm-dl-Szilard-2019.pdf) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
 * [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/) - Intro to text analytics
 * [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
