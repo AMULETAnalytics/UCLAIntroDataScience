@@ -57,7 +57,7 @@ slides
 
 ## Supplemental Materials
 
-* [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Excellent work by student Xiaozhu Zhang
+* [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [SLIDES from LA West R Meetup group](https://github.com/laRusers/presentations/blob/master/2019-05-28-better-than-dl-gbm/gbm-dl-Szilard-2019.pdf) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
