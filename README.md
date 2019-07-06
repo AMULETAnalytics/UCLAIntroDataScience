@@ -5,6 +5,11 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
+7/5/2019 - THANK YOU! for being such great students last quarter for the Introduction to Data Science class. A vast majority
+of you did very well with the course materials and assignments. You're definitely on your way to becoming data scientists. 
+I have posted the solution to the Alternate Class Project for your review. I've also posted a link to an excellent solution
+to the Public Data Hacking class project. Don't forget: Power-to-the-Data!!
+
 6/18/2019 - UPDATE! I just got word from UCLA Extension that the absolute drop-dead date for turning in class assignments is
 June 30 when final grades must be submitted. Please make sure your class projects and any missing homework assignments are
 submitted by then. 
