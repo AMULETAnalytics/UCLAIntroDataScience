@@ -5,35 +5,6 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 assignments, slides, and code. Check back each Monday for new materials. Content will be made available weekly 
 throughout the course.
 
-7/5/2019 - THANK YOU! for being such great students last quarter for the Introduction to Data Science class. A vast majority
-of you did very well with the course materials and assignments. You're definitely on your way to becoming data scientists. 
-I have posted the solution to the Alternate Class Project for your review. I've also posted a link to an excellent solution
-to the Public Data Hacking class project. Don't forget: Power-to-the-Data!!
-
-6/18/2019 - UPDATE! I just got word from UCLA Extension that the absolute drop-dead date for turning in class assignments is
-June 30 when final grades must be submitted. Please make sure your class projects and any missing homework assignments are
-submitted by then. 
-
-5/29/2019 - UPDATE! New due dates: HOMEWORK #3 is due: Tuesday night class, June 11, and Thursday night class, June 13. CLASS PROJECT is due: Tuesday night class, June 18, Thursday night class, June 20. 
-
-5/17/2019 - HOMEWORK #2 UPDATE: for question #9 you may use the scatterplot3d package instead of rcmdr. 
-
-5/13/2019 - Please note that an alternate class project document has been posted, along with the solutions to HW #1
-
-5/3/2019 - It is imperative that students turn in answers for Homework #1 now. I will be posting solutions for the assignment soon. After that point, submissions will no longer be accepted. 
-
-4/29/2019 - UPDATE! HOMEWORK #2 has been posted, please download now. The assignment is due: Tuesday night class, May 21, and 
-Thursday night class, May 23. 
-
-4/22/2019 - As we may not get to R dates/times in the lecture, here is a hint for Question #10 on Homework #1: 
-tak a look at the R functions: Sys.time() and as.POSIXct()
-
-4/15/2019 - UPDATE on HOMEWORK #1 - you'll have an extra week to complete this assignment. For my Tuesday class it will
-be due on April 30, and for my Thursday class it will be due on May 2. 
-
-4/8/2019 - HOMEWORK #1 has been posted, please download now. You must submit via e-mail a single R script file with 
-your answers. Please include the results of your R code as comments in the R script file.  
-
 SPECIAL OFFER! My book publisher has offered to sell the textbook for our class with a special 25% off student discount. Just click [HERE](https://technicspub.com/machine-learning-and-data-science/) and use coupon code "Gutierrez2019" 
 
 
