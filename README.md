@@ -28,6 +28,7 @@ slides
 
 ## Supplemental Materials
 
+* [Have you ever seen a data scientist get fired? If yes, why?](https://www.quora.com/Have-you-ever-seen-a-data-scientist-get-fired-If-yes-why) - A peek into the reality of being a data scientist
 * [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [SLIDES from LA West R Meetup group](https://github.com/laRusers/presentations/blob/master/2019-05-28-better-than-dl-gbm/gbm-dl-Szilard-2019.pdf) - Better Than Deep Learning Gradient Boosting Machine 2019
