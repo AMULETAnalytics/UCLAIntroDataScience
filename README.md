@@ -28,13 +28,14 @@ slides
 
 ## Supplemental Resources - General
 
-* [Have you ever seen a data scientist get fired? If yes, why?](https://www.quora.com/Have-you-ever-seen-a-data-scientist-get-fired-If-yes-why) - A peek into the reality of being a data scientist
+* [Data Scientist Resume: Template, Examples & Complete Guide](https://www.quora.com/Have-you-ever-seen-a-data-scientist-get-fired-If-yes-why) - See what successful data science resumes look like
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
 * [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
 * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
 
 ## Supplemental Resources - Data Science
 
+* [insideBIGDATA "Ask a Data Scientist" Series](https://www.cleverism.com/data-scientist-resume/) - My popular educational series sponsored by Intel
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
 * [How to Get Your Data Science Career Started](https://www.forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started/#6dc0a75e7e5c) - Nice Forbes article on how jump start into Data Science
