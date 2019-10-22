@@ -35,7 +35,7 @@ slides
 
 ## Supplemental Resources - Data Science
 
-* [insideBIGDATA "Ask a Data Scientist" Series](https://www.cleverism.com/data-scientist-resume/) - My popular educational series sponsored by Intel
+* [Data Scientist Resume: Template, Examples and Complete Guide](https://www.cleverism.com/data-scientist-resume/) - What a successful data science resume looks like
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
 * [How to Get Your Data Science Career Started](https://www.forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started/#6dc0a75e7e5c) - Nice Forbes article on how jump start into Data Science
