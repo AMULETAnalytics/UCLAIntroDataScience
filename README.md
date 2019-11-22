@@ -28,6 +28,7 @@ slides
 
 ## Supplemental Resources - General
 
+* [Slack channel: Down-in-the-Trenches-Data-Science](https://join.slack.com/t/amuletanalytics/shared_invite/enQtODQ3MTA0ODQ0OTM0LTQ3ZTJlNGZiN2Y5YzA5ODljMmY4YmE5YTgxNzE5NzkwYjRiOTgwMTU5ODQ2OGFiOTVlMGRjOGU1MGQxMjg3MTA) - Stay connected after the class ends with current and past students ... open to all data scientists
 * [Data Scientist Resume: Template, Examples & Complete Guide](https://www.quora.com/Have-you-ever-seen-a-data-scientist-get-fired-If-yes-why) - See what successful data science resumes look like
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
 * [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
