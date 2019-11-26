@@ -50,6 +50,7 @@ slides
 
 ## Supplemental Resources - Machine Learning
 
+* [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
 * [Preventing undesirable behavior of intelligent machines](https://science.sciencemag.org/content/366/6468/999) - Cool research paper addressing the debate over machine learning bias
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [SLIDES from LA West R Meetup group](https://github.com/laRusers/presentations/blob/master/2019-05-28-better-than-dl-gbm/gbm-dl-Szilard-2019.pdf) - Better Than Deep Learning Gradient Boosting Machine 2019
