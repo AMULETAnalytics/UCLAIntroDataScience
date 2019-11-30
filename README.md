@@ -50,6 +50,7 @@ slides
 
 ## Supplemental Resources - Machine Learning
 
+* [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
 * [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
 * [Preventing undesirable behavior of intelligent machines](https://science.sciencemag.org/content/366/6468/999) - Cool research paper addressing the debate over machine learning bias
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
