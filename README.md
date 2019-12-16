@@ -34,7 +34,7 @@ slides
 * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
 
 
-## Class Project Examplbes - past students
+## Class Project Examples - Past Students
 
 * [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
 
