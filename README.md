@@ -36,7 +36,7 @@ slides
 
 ## Class Project Examples - Past Students
 
-* [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang
+* [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang (Spring 2019)
 
 
 ## Supplemental Resources - Data Science
