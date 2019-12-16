@@ -36,8 +36,8 @@ slides
 
 ## Class Project Examples - Past Students
 
-* [Excellent solution to the Public Data Hacking class project](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang (Spring 2019)
-* [Introduction to Data Science class project solution: FIVB Beach Volleyball Historic Top 8 Teams Analysis](https://github.com/tyler-widdison/FIVB-Beach-Volleyball-Historic-Top-8-Teams-Analysis) - Work done by student Tyler Widdison (Fall 2019)
+* [Data Analysis for PM2.5 in Beijing](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang (Spring 2019)
+* [FIVB Beach Volleyball Historic Top 8 Teams Analysis](https://github.com/tyler-widdison/FIVB-Beach-Volleyball-Historic-Top-8-Teams-Analysis) - Work done by student Tyler Widdison (Fall 2019)
 
 
 ## Supplemental Resources - Data Science
