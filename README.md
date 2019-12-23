@@ -64,9 +64,10 @@ slides
 * [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
 * [Book Review: Deep Learning Revolution](https://insidebigdata.com/2019/03/05/book-review-deep-learning-revolution-by-terrence-j-sejnowski/) - Nice deep learning book for a general audience.
 
-## Supplemental Resources - Coding
+## Supplemental Resources - R Coding
 
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R"
+* [R Tutorials](https://www.guru99.com/r-tutorial.html) - Good R programming tutorials to read in parallel with weeks 1-4 of class"
 * [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/) - Intro to text analytics
 * [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
