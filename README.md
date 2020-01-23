@@ -42,6 +42,7 @@ slides
 
 ## Supplemental Resources - Data Science
 
+* [Trends in Data Science 2019/2020](https://cdn2.hubspot.net/hubfs/1865444/ODSC%202020%20Trends.pdf) - Important industry trends from ODSC
 * [Data Scientist Resume: Template, Examples and Complete Guide](https://www.cleverism.com/data-scientist-resume/) - What a successful data science resume looks like
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
