@@ -79,6 +79,10 @@ slides
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
 
+## Supplemental Resources - Statistics
+
+* [Do my data follow a normal distribution?](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - A note on the most widely used distribution and how to test for normality in R.
+
 ## Supplemental Resources - Books
 
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
