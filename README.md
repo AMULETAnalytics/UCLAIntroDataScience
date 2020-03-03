@@ -56,6 +56,8 @@ slides
 
 ## Supplemental Resources - Machine Learning
 
+* [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://docs.google.com/presentation/d/1WdQajKNeJR5gJs437XUuLksBJPm4rowdzH3i1vEWTHA/edit#slide=id.g58411bbf6a_0_15) - Slides from a great Meetup
+* [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
 * [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
 * [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
 * [Preventing undesirable behavior of intelligent machines](https://science.sciencemag.org/content/366/6468/999) - Cool research paper addressing the debate over machine learning bias
