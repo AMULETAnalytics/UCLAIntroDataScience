@@ -35,6 +35,8 @@ slides
 
 ## Excellent Class Project Examples - Past Students
 
+* [Airbnb Price Prediction for different areas in NYC](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis) - Work done by student Hashneet Kaur (Winter 2020)
+* [Predicting-Hotel-booking-demand-and-cancellation](https://github.com/ElaineKuang/Predicting-Hotel-booking-demand-and-cancellation) - Work done by student Elaine Kuang (Winter 2020)
 * [Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases](https://github.com/mickyp/Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases) - Work done by student Micky Lee (Winter 2020)
 * [Data Analysis for 2019 Indian General Election](https://github.com/gui33627/UCLAIntroDataScience) - Work done by student Junhui Yang (Winter 2020)
 * [FIVB Beach Volleyball Historic Top 8 Teams Analysis](https://github.com/tyler-widdison/FIVB-Beach-Volleyball-Historic-Top-8-Teams-Analysis) - Work done by student Tyler Widdison (Fall 2019)
