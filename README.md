@@ -31,7 +31,7 @@ slides
 * [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
 * [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
 * [Merge Covid-19 Data with Governmental Interventions Data ](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/) 
-* [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
+* [COVID-19 Data and Prediction for Michigan](https://iamnagdev.com/2020/03/26/covid-19-data-and-prediction-for-michigan/) 
 
 ## Supplemental Resources - General
 
