@@ -29,6 +29,7 @@ slides
 ## COVID-19 Data Science Grab Bag
 
 * [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
+* [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
 
 
 ## Supplemental Resources - General
