@@ -26,6 +26,11 @@ slides
 
 ```
 
+## COVID-19 Data Science Grab Bag
+
+* [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
+
+
 ## Supplemental Resources - General
 
 * [JOIN! Slack channel: Down-in-the-Trenches-Data-Science](https://join.slack.com/t/amuletanalytics/shared_invite/enQtODkwNDU3MTU4ODgzLTQ4MmQ0NDIzZjA0MjcwY2RhMzczZDY3ZTNhZGFmY2M1YTQyMDViODFkNWNjNzk0MTMyN2Q3NjgxN2JiZWRjMGY) - Stay connected after the class ends with current and past students ... open to all data scientists
