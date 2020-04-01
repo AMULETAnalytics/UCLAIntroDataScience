@@ -35,6 +35,8 @@ slides
 * [COVID-19 Data and Prediction for Michigan](https://iamnagdev.com/2020/03/26/covid-19-data-and-prediction-for-michigan/) 
 * [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/) 
 * [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+* [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post)
+
 
 
 ## Supplemental Resources - General
