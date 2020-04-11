@@ -28,6 +28,7 @@ slides
 
 ## COVID-19 Data Science Grab Bag
 
+* [COVID-19 Data](https://kjhealy.github.io/covdata/) - covdata is a data package for R. It provides COVID-19 case data from three sources.
 * [The COVID Tracking Project](https://covidtracking.com/) - Raw data for tracking COVID-19
 * [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
 * [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
