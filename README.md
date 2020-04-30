@@ -28,6 +28,7 @@ slides
 
 ## COVID-19 Data Science Grab Bag
 
+* [Demo of reproducible geographic data analysis: mapping Covid-19 data with R](https://geocompr.github.io/post/2020/mapping-covid-19/)
 * [Tracking Covid19 Cases Throughout NJ with R](https://www.kevinzolea.com/post/covid19_nj/tracking-covid19-cases-throughout-nj-with-r/)
 * [COVID-19 Data](https://kjhealy.github.io/covdata/) - covdata is a data package for R. It provides COVID-19 case data from three sources
 * [The COVID Tracking Project](https://covidtracking.com/) - Raw data for tracking COVID-19
