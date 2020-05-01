@@ -115,6 +115,7 @@ slides
 
 ## Supplemental Resources - Books
 
+* [Springer has released 65 Machine Learning and Data books for free](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) - Fantastic new learning opportunity!
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 
