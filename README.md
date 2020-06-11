@@ -32,13 +32,11 @@ slides
 * [2020 ASA DataFest at UCLA All Presentations](http://datafest.stat.ucla.edu/2020-results/2020-presentations/) 
 * [R Interface to COVID-19 Data Hub](https://tutorial.guidotti.dev/jv7v8/) - Great way to get productive quickly with COVID data using R
 * [Demo of reproducible geographic data analysis: mapping Covid-19 data with R](https://geocompr.github.io/post/2020/mapping-covid-19/)
-* [Tracking Covid19 Cases Throughout NJ with R](https://www.kevinzolea.com/post/covid19_nj/tracking-covid19-cases-throughout-nj-with-r/)
 * [COVID-19 Data](https://kjhealy.github.io/covdata/) - covdata is a data package for R. It provides COVID-19 case data from three sources
 * [The COVID Tracking Project](https://covidtracking.com/) - Raw data for tracking COVID-19
 * [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
 * [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
 * [Merge Covid-19 Data with Governmental Interventions Data ](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/) 
-* [COVID-19 Data and Prediction for Michigan](https://iamnagdev.com/2020/03/26/covid-19-data-and-prediction-for-michigan/) 
 * [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/) 
 * [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
 * [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post)
