@@ -28,6 +28,8 @@ slides
 
 ## COVID-19 Data Science Grab Bag
 
+* [2020 ASA DataFest at UCLA Winners](http://datafest.stat.ucla.edu/2020-results/2020-winners/) - Wonder student COVID-19 data projects with video presentations
+* [2020 ASA DataFest at UCLA All Presentations](http://datafest.stat.ucla.edu/2020-results/2020-presentations/) 
 * [R Interface to COVID-19 Data Hub](https://tutorial.guidotti.dev/jv7v8/) - Great way to get productive quickly with COVID data using R
 * [Demo of reproducible geographic data analysis: mapping Covid-19 data with R](https://geocompr.github.io/post/2020/mapping-covid-19/)
 * [Tracking Covid19 Cases Throughout NJ with R](https://www.kevinzolea.com/post/covid19_nj/tracking-covid19-cases-throughout-nj-with-r/)
