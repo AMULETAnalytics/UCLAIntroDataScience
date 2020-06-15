@@ -53,6 +53,7 @@ slides
 
 ## Excellent Class Project Examples - Past Students
 
+* [Data Analysis Evolution of Popular Music](https://github.com/william-toth/Data_Analysis_Evolution_of_Popular_Music) - Work done by student William Toth (Spring 2020)
 * [Airbnb Price Prediction for different areas in NYC](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis) - Work done by student Hashneet Kaur (Winter 2020)
 * [Predicting-Hotel-booking-demand-and-cancellation](https://github.com/ElaineKuang/Predicting-Hotel-booking-demand-and-cancellation) - Work done by student Elaine Kuang (Winter 2020)
 * [Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases](https://github.com/mickyp/Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases) - Work done by student Micky Lee (Winter 2020)
