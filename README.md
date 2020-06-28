@@ -97,6 +97,7 @@ slides
 ## Supplemental Resources - R Coding
 
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
+* [R vs Python: Different similarities and similar differences](https://gigadom.in/2017/05/22/r-vs-python-different-similarities-and-similar-differences/) - Nice cross-comparison of the R and Python data science programming languages
 * [R Tutorials](https://www.guru99.com/r-tutorial.html) - Good R programming tutorials to read in parallel with weeks 1-4 of class
 * [Descriptive Statistics in R](https://www.statsandr.com/blog/descriptive-statistics-in-r/) - Good resource for Week 7 of class on EDA
 * [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/) - Intro to text analytics
