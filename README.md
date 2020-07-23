@@ -107,6 +107,10 @@ slides
 * [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
 * [Essential list of useful R packages for data scientists](https://tomaztsql.wordpress.com/2020/04/27/essential-list-of-useful-r-packages-for-data-scientists/) - Great list of important R packages for data scientists
 
+## Supplemental Resources - Python Coding
+
+* [Python Programming Tutorials](https://pythonprogramming.net/) - Many tutorial resources for Python coding for data science and machine learning
+
 ## Supplemental Resources - Mathematics
 
 * [Theoretical Foundations of Data Science— Should I Care or Simply Focus on Hands-on Skills?](https://towardsdatascience.com/theoretical-foundations-of-data-science-should-i-care-or-simply-focus-on-hands-on-skills-c53fb0caba66) - YES, you should care!
