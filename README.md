@@ -107,6 +107,8 @@ slides
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
 * [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
 * [Essential list of useful R packages for data scientists](https://tomaztsql.wordpress.com/2020/04/27/essential-list-of-useful-r-packages-for-data-scientists/) - Great list of important R packages for data scientists
+* [R plot pch symbols : The different point shapes available in R](http://www.sthda.com/english/wiki/r-plot-pch-symbols-the-different-point-shapes-available-in-r) - An examination of all the popular PCH argument values for data vizualizations
+
 
 ## Supplemental Resources - Python Coding
 
