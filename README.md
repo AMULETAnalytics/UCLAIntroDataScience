@@ -54,6 +54,7 @@ slides
 
 ## Excellent Class Project Examples - Past Students
 
+* [Analysis of Match Statistics and Team Performances in the Premier League From Season 2015/16 to Season 2019/20](https://github.com/tara-nguyen/english-premier-league-random-forest-analysis) - Work done by student Tara Nguyen(Fall 2020)
 * [What Makes Us Happy - Using Kaggle "Young People Survey" data set](https://github.com/Slartibart-fast/What-makes-us-happy) - Work done by student Alexander Fichtl, taking course from Germany (Spring 2020)
 * [Data Analysis Evolution of Popular Music](https://github.com/william-toth/Data_Analysis_Evolution_of_Popular_Music) - Work done by student William Toth (Spring 2020)
 * [Airbnb Price Prediction for different areas in NYC](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis) - Work done by student Hashneet Kaur (Winter 2020)
