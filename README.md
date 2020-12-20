@@ -51,21 +51,6 @@ slides
 * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
 * [Op-Ed: The real reason we’re afraid of robots](https://www.latimes.com/opinion/story/2020-07-26/artificial-intelligence-robots-psychology-fears) - Cogent Op-Ed relating to the "Killer AI" meme
 
-
-## Excellent Class Project Examples - Past Students
-
-* [Analysis of Match Statistics and Team Performances in the Premier League From Season 2015/16 to Season 2019/20](https://github.com/tara-nguyen/english-premier-league-random-forest-analysis) - Work done by student Tara Nguyen(Fall 2020)
-* [What Makes Us Happy - Using Kaggle "Young People Survey" data set](https://github.com/Slartibart-fast/What-makes-us-happy) - Work done by student Alexander Fichtl, taking course from Germany (Spring 2020)
-* [Data Analysis Evolution of Popular Music](https://github.com/william-toth/Data_Analysis_Evolution_of_Popular_Music) - Work done by student William Toth (Spring 2020)
-* [Airbnb Price Prediction for different areas in NYC](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis) - Work done by student Hashneet Kaur (Winter 2020)
-* [Predicting-Hotel-booking-demand-and-cancellation](https://github.com/ElaineKuang/Predicting-Hotel-booking-demand-and-cancellation) - Work done by student Elaine Kuang (Winter 2020)
-* [Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases](https://github.com/mickyp/Analysis-of-Coronavirus-COVID-19-New-Confirmed-Cases) - Work done by student Micky Lee (Winter 2020)
-* [Data Analysis for 2019 Indian General Election](https://github.com/gui33627/UCLAIntroDataScience) - Work done by student Junhui Yang (Winter 2020)
-* [FIVB Beach Volleyball Historic Top 8 Teams Analysis](https://github.com/tyler-widdison/FIVB-Beach-Volleyball-Historic-Top-8-Teams-Analysis) - Work done by student Tyler Widdison (Fall 2019)
-* [Data Analysis for PM2.5 in Beijing](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang (Spring 2019)
-
-
-
 ## Supplemental Resources - Data Science
 
 * [Data Con LA 2020](https://www.youtube.com/playlist?list=PLJ9-HZ4pTg7rSiLHfa4M5wHqVXtBZnmJL) - 109 video presentations from the Data Con LA virtual conference
