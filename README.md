@@ -26,24 +26,6 @@ slides
 
 ```
 
-## COVID-19 Data Science Grab Bag
-
-* [2020 ASA DataFest at UCLA Winners](http://datafest.stat.ucla.edu/2020-results/2020-winners/) - Wonder student COVID-19 data projects with video presentations
-* [2020 ASA DataFest at UCLA All Presentations](http://datafest.stat.ucla.edu/2020-results/2020-presentations/) 
-* [R Interface to COVID-19 Data Hub](https://tutorial.guidotti.dev/jv7v8/) - Great way to get productive quickly with COVID data using R
-* [Demo of reproducible geographic data analysis: mapping Covid-19 data with R](https://geocompr.github.io/post/2020/mapping-covid-19/)
-* [COVID-19 Data](https://kjhealy.github.io/covdata/) - covdata is a data package for R. It provides COVID-19 case data from three sources
-* [The COVID Tracking Project](https://covidtracking.com/) - Raw data for tracking COVID-19
-* [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
-* [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
-* [Merge Covid-19 Data with Governmental Interventions Data ](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/) 
-* [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/) 
-* [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
-* [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post)
-* [C3.ai COVID-19 Data Lake](https://c3.ai/covid/)
-
-
-
 ## Supplemental Resources - General
 
 * [JOIN! Slack channel: Down-in-the-Trenches-Data-Science](https://join.slack.com/t/amuletanalytics/shared_invite/enQtODkwNDU3MTU4ODgzLTQ4MmQ0NDIzZjA0MjcwY2RhMzczZDY3ZTNhZGFmY2M1YTQyMDViODFkNWNjNzk0MTMyN2Q3NjgxN2JiZWRjMGY) - Stay connected after the class ends with current and past students ... open to all data scientists
@@ -118,6 +100,21 @@ slides
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 
+## COVID-19 Data Science Grab Bag
+
+* [2020 ASA DataFest at UCLA Winners](http://datafest.stat.ucla.edu/2020-results/2020-winners/) - Wonder student COVID-19 data projects with video presentations
+* [2020 ASA DataFest at UCLA All Presentations](http://datafest.stat.ucla.edu/2020-results/2020-presentations/) 
+* [R Interface to COVID-19 Data Hub](https://tutorial.guidotti.dev/jv7v8/) - Great way to get productive quickly with COVID data using R
+* [Demo of reproducible geographic data analysis: mapping Covid-19 data with R](https://geocompr.github.io/post/2020/mapping-covid-19/)
+* [COVID-19 Data](https://kjhealy.github.io/covdata/) - covdata is a data package for R. It provides COVID-19 case data from three sources
+* [The COVID Tracking Project](https://covidtracking.com/) - Raw data for tracking COVID-19
+* [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) 
+* [COVID-19 Resource Gallery](https://mirai-solutions.ch/news/2020/03/27/covid-19-resource-gallery/) 
+* [Merge Covid-19 Data with Governmental Interventions Data ](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/) 
+* [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/) 
+* [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+* [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post)
+* [C3.ai COVID-19 Data Lake](https://c3.ai/covid/)
 
 ## Excellent Class Project Examples - Past Students
 
