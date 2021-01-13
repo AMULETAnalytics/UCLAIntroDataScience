@@ -82,6 +82,7 @@ slides
 ## Supplemental Resources - Python Coding
 
 * [Python Programming Tutorials](https://pythonprogramming.net/) - Many tutorial resources for Python coding for data science and machine learning
+* [Talk Python](https://talkpython.fm/) - A podcast on Python and related technologies
 
 ## Supplemental Resources - Mathematics
 
