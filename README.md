@@ -88,6 +88,7 @@ slides
 
 ## Supplemental Resources - Mathematics
 
+* [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning
 * [Fundamentals of Multivariate Calculus for DataScience and Machine Learning](https://medium.com/analytics-vidhya/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca) - Great tutorial for learning the math behind ML and DL
 * [Theoretical Foundations of Data Science— Should I Care or Simply Focus on Hands-on Skills?](https://towardsdatascience.com/theoretical-foundations-of-data-science-should-i-care-or-simply-focus-on-hands-on-skills-c53fb0caba66) - YES, you should care!
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
