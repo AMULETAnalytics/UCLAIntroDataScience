@@ -84,6 +84,7 @@ slides
 
 ## Supplemental Resources - Python Coding
 
+* [An Introduction to Statistical Learning: with Applications in R... with Python!](https://botlnec.github.io/islp/) - Solutions to ISL exercises in Python
 * [Python Programming Tutorials](https://pythonprogramming.net/) - Many tutorial resources for Python coding for data science and machine learning
 * [Talk Python](https://talkpython.fm/) - A podcast on Python and related technologies
 
