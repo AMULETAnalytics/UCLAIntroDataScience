@@ -104,7 +104,7 @@ slides
 
 ## Supplemental Resources - Books
 
-* [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Great book to use following this class.
+* [Introduction to Statistical Learning](https://www.statlearning.com/) - Great book to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning
 
