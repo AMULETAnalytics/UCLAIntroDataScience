@@ -108,7 +108,7 @@ slides
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning
 
-## Excellent Class Project Examples - Past Students
+## Excellent Post-Class Project Examples - Past Students
 
 * [Analysis of Reptile & Amphibian Observations in Los Angeles County](https://github.com/tbstegman/Analysis_of_Reptile_and_Amphibian_data) - Work done by student Timothy Stegman (Fall 2020)
 * [Analysis of Match Statistics and Team Performances in the Premier League From Season 2015/16 to Season 2019/20](https://github.com/tara-nguyen/english-premier-league-random-forest-analysis) - Work done by student Tara Nguyen(Fall 2020)
