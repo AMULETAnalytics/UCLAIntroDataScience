@@ -70,6 +70,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - Tidyverse Skeptic essay by Norm Matloff
 * [useR! Conference](https://user2021.r-project.org/) - Premiere global R conference
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
 * [R vs Python: Different similarities and similar differences](https://gigadom.in/2017/05/22/r-vs-python-different-similarities-and-similar-differences/) - Nice cross-comparison of the R and Python data science programming languages
