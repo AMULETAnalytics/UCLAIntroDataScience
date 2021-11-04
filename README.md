@@ -54,6 +54,7 @@ slides
 
 ## Supplemental Resources - Machine Learning
 
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) - Nice learning resource by Max Kuhn and Kjell Johnson
 * [2021: The year of no-code AI/ML](https://www.boonai.io/blog/2021/01/2021-the-year-of-no-code-ai-ml/) - Learn about the no-code/low-code trend for ML
 * [2020 Outlook on AutoML Updates & Latest Recent Advances](https://opendatascience.com/2020-outlook-on-automl-updates-latest-recent-advances/) - Latest authoritative list of AutoML tools and frameworks
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://docs.google.com/presentation/d/1WdQajKNeJR5gJs437XUuLksBJPm4rowdzH3i1vEWTHA/edit#slide=id.g58411bbf6a_0_15) - Slides from a great Meetup
