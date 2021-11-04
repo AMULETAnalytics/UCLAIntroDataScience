@@ -71,6 +71,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [R for Data Science](https://r4ds.had.co.nz/) - Official Tidyverse book by Hadley Wickham
 * [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - Tidyverse Skeptic essay by Norm Matloff
 * [useR! Conference](https://user2021.r-project.org/) - Premiere global R conference
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
