@@ -110,6 +110,7 @@ slides
 * [Introduction to Statistical Learning](https://www.statlearning.com/) - Great book to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning
+* [Bookdown](https://bookdown.org/) - A collection of free eBooks on data science and R.
 
 ## Excellent Post-Class Project Examples - Past Students
 
