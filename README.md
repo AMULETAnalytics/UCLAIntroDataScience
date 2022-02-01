@@ -35,6 +35,7 @@ slides
 
 ## Supplemental Resources - Data Science
 
+* [What Is Causal Inference? An Introduction for Data Scientists](https://www.oreilly.com/radar/what-is-causal-inference/) - A great intro to this growing area
 * [My Journey into AI Webinar](https://www.youtube.com/watch?v=gXluw4FxfKg) - Panel discussion hosted by DeepLearning.AI
 * [R vs Python! Which one should you choose for data science?](https://www.datasciencecentral.com/profiles/blogs/python-vs-r-which-one-should-you-choose-for-data-science#akash44256) - A balanced comparison of the two most popular data science languages
 * [Data Con LA 2020](https://www.youtube.com/playlist?list=PLJ9-HZ4pTg7rSiLHfa4M5wHqVXtBZnmJL) - 109 video presentations from the Data Con LA virtual conference
