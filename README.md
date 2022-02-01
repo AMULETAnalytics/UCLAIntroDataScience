@@ -72,6 +72,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
 * [R for Data Science](https://r4ds.had.co.nz/) - Official Tidyverse book by Hadley Wickham
 * [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - Tidyverse Skeptic essay by Norm Matloff
 * [useR! Conference](https://user2021.r-project.org/) - Premiere global R conference
