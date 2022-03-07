@@ -113,6 +113,7 @@ slides
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning
 * [Bookdown](https://bookdown.org/) - A collection of free eBooks on data science and R.
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Machine learning built on a foundation of probability theory.
 
 ## Excellent Post-Class Project Examples - Past Students
 
