@@ -117,6 +117,7 @@ slides
 
 ## Excellent Post-Class Project Examples - Past Students
 
+* [Using NFL Analytics to Contextualize Player Performance & Predict Playoff Probability](https://github.com/JL-Doge/COMSCI450.1) - Work done by student Jesse Lubell (Summer 2021)
 * [Analysis of Reptile & Amphibian Observations in Los Angeles County](https://github.com/tbstegman/Analysis_of_Reptile_and_Amphibian_data) - Work done by student Timothy Stegman (Fall 2020)
 * [Analysis of Match Statistics and Team Performances in the Premier League From Season 2015/16 to Season 2019/20](https://github.com/tara-nguyen/english-premier-league-random-forest-analysis) - Work done by student Tara Nguyen(Fall 2020)
 * [What Makes Us Happy - Using Kaggle "Young People Survey" data set](https://github.com/Slartibart-fast/What-makes-us-happy) - Work done by student Alexander Fichtl, taking course from Germany (Spring 2020)
