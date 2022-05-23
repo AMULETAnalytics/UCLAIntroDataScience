@@ -104,7 +104,7 @@ slides
 
 ## Supplemental Resources - Statistics
 
-* [The Book of R: A First Course in Programming and Statistics](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - As mentioned in class, a great way to learn statistics.
+* [The Book of R: A First Course in Programming and Statistics](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) - As mentioned in class, a great way to learn statistics.
 * [Do my data follow a normal distribution?](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - A note on the most widely used distribution and how to test for normality in R.
 * [Fisher's exact test in R: independence test for a small sample](https://www.statsandr.com/blog/fisher-s-exact-test-in-r-independence-test-for-a-small-sample/) - Focuses on the Fisher’s exact test. Independence tests are used to determine if there is a significant relationship between two categorical variables. 
 
