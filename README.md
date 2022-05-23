@@ -97,13 +97,14 @@ slides
 
 ## Supplemental Resources - Mathematics
 
-* [Fundamentals of Multivariate Calculus for DataScience and Machine Learning](https://medium.com/analytics-vidhya/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca) - Great tutorial for learning the math behind ML and DL
+* [Fundamentals of Multivariate Calculus for DataScience and Machine Learning]([https://medium.com/analytics-vidhya/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf)) - As recommended in class, a great way to learn statistics
 * [Theoretical Foundations of Data Science— Should I Care or Simply Focus on Hands-on Skills?](https://towardsdatascience.com/theoretical-foundations-of-data-science-should-i-care-or-simply-focus-on-hands-on-skills-c53fb0caba66) - YES, you should care!
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
 
 ## Supplemental Resources - Statistics
 
+* [The Book of R: A First Course in Programming and Statistics](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - A note on the most widely used distribution and how to test for normality in R.
 * [Do my data follow a normal distribution?](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - A note on the most widely used distribution and how to test for normality in R.
 * [Fisher's exact test in R: independence test for a small sample](https://www.statsandr.com/blog/fisher-s-exact-test-in-r-independence-test-for-a-small-sample/) - Focuses on the Fisher’s exact test. Independence tests are used to determine if there is a significant relationship between two categorical variables. 
 
