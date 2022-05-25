@@ -99,7 +99,7 @@ slides
 
 ## Supplemental Resources - Mathematics
 
-* [Fundamentals of Multivariate Calculus for DataScience and Machine Learning]([https://medium.com/analytics-vidhya/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf)) - As recommended in class, a great way to learn statistics
+* [Fundamentals of Multivariate Calculus for DataScience and Machine Learning](https://medium.com/analytics-vidhya/fundamentals-of-multivariate-calculus-for-datascience-and-machine-learning-b2c7e83445ca) - As recommended in class, a great way to learn statistics
 * [Theoretical Foundations of Data Science— Should I Care or Simply Focus on Hands-on Skills?](https://towardsdatascience.com/theoretical-foundations-of-data-science-should-i-care-or-simply-focus-on-hands-on-skills-c53fb0caba66) - YES, you should care!
 * [Linear Algebra via MIT OpenCourseWare](http://news.mit.edu/2019/gil-strang-still-going-strong-online-and-print-0508) - Learn linear algebra from Gil Strang, the best of the best!
 * [Calculus — Multivariate Calculus And Machine Learning -- A Must Know Concept For Every Professional](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c) - Here is the bare minimum Calculus necessary for machine learning. 
