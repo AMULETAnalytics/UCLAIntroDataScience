@@ -73,6 +73,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
 * [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
 * [R for Data Science](https://r4ds.had.co.nz/) - Official Tidyverse book by Hadley Wickham
 * [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - Tidyverse Skeptic essay by Norm Matloff
