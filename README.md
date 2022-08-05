@@ -35,6 +35,7 @@ slides
 
 ## Supplemental Resources - Data Science
 
+* [Data Scientist vs Machine Learning Engineer](https://www.wallaroo.ai/blog/data-scientist-vs-machine-learning-engineer) - A great distinction!
 * [Data Is An Art, Not Just A Science—And Storytelling Is The Key](https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify) - Data storytelling is key to successful data science
 * [What Is Causal Inference? An Introduction for Data Scientists](https://www.oreilly.com/radar/what-is-causal-inference/) - A great intro to this growing area
 * [My Journey into AI Webinar](https://www.youtube.com/watch?v=gXluw4FxfKg) - Panel discussion hosted by DeepLearning.AI
