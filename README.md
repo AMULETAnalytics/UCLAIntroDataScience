@@ -74,6 +74,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [Presentations from So Cal R User Group Meetup](https://www.youtube.com/c/SouthernCaliforniaRUsersGroup) - Youtube channel for the So Cal R Users Group
 * [Frustration: One Year With R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - One coders experience with R
 * [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
 * [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
