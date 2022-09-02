@@ -74,6 +74,7 @@ slides
 
 ## Supplemental Resources - R Coding
 
+* [Nice self-contained data project example](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/) - CO2 Emissions Comparing and Modeling for Global Warming
 * [Presentations from So Cal R User Group Meetup](https://www.youtube.com/c/SouthernCaliforniaRUsersGroup) - Youtube channel for the So Cal R Users Group
 * [Frustration: One Year With R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - One coders experience with R
 * [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
