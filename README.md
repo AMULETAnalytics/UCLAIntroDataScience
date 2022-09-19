@@ -28,7 +28,6 @@ slides
 
 ## Supplemental Resources - General
 
-* [JOIN! Slack channel: Down-in-the-Trenches-Data-Science](https://join.slack.com/t/amuletanalytics/shared_invite/enQtODkwNDU3MTU4ODgzLTQ4MmQ0NDIzZjA0MjcwY2RhMzczZDY3ZTNhZGFmY2M1YTQyMDViODFkNWNjNzk0MTMyN2Q3NjgxN2JiZWRjMGY) - Stay connected after the class ends with current and past students ... open to all data scientists
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
 * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
 * [Op-Ed: The real reason we’re afraid of robots](https://www.latimes.com/opinion/story/2020-07-26/artificial-intelligence-robots-psychology-fears) - Cogent Op-Ed relating to the "Killer AI" meme
