@@ -41,7 +41,7 @@ University of Virginia
 * [What Is Causal Inference? An Introduction for Data Scientists](https://www.oreilly.com/radar/what-is-causal-inference/) - A great intro to this growing area
 * [My Journey into AI Webinar](https://www.youtube.com/watch?v=gXluw4FxfKg) - Panel discussion hosted by DeepLearning.AI
 * [R vs Python! Which one should you choose for data science?](https://www.datasciencecentral.com/profiles/blogs/python-vs-r-which-one-should-you-choose-for-data-science#akash44256) - A balanced comparison of the two most popular data science languages
-* [Data Con LA 2022](https://www.youtube.com/user/sawjd/videos) - Video presentations from the Data Con LA virtual conference
+* [Data Con LA 2022](https://www.youtube.com/playlist?list=PLJ9-HZ4pTg7q6GIUCRMj4iBocO054oibP) - Video presentations from the Data Con LA virtual conference
 * [Data Science Jobs Report 2020](https://365datascience.com/wp-content/uploads/2020/06/Data-Science-Jobs-Report-2020.pdf) - Useful employment research from 365DataScience
 * [Trends in Data Science 2019/2020](https://cdn2.hubspot.net/hubfs/1865444/ODSC%202020%20Trends.pdf) - Important industry trends from ODSC
 * [Data Scientist Resume: Template, Examples and Complete Guide](https://www.cleverism.com/data-scientist-resume/) - What a successful data science resume looks like
