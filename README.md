@@ -78,9 +78,10 @@ University of Virginia
 
 ## Supplemental Resources - R Coding
 
+* [Static and Dynamic Web Scraping with R](https://tim-tiefenbach.de/post/2023-web-scraping/) - Over view of web scraping with R
 * [Nice self-contained data project example](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/) - CO2 Emissions Comparing and Modeling for Global Warming
 * [Presentations from So Cal R User Group Meetup](https://www.youtube.com/c/SouthernCaliforniaRUsersGroup) - Youtube channel for the So Cal R Users Group
-* [Frustration: One Year With R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - One coders experience with R
+* [Frustration: One Year With R](https://github.com/ReeceGoding/Frustration-One-YStatic and Dynamic Web Scraping with Rear-With-R) - One coders experience with R
 * [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
 * [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
 * [R for Data Science](https://r4ds.had.co.nz/) - Official Tidyverse book by Hadley Wickham
