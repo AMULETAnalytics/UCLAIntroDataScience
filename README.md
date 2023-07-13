@@ -100,7 +100,7 @@ University of Virginia
 * [R plot pch symbols : The different point shapes available in R](http://www.sthda.com/english/wiki/r-plot-pch-symbols-the-different-point-shapes-available-in-r) - An examination of all the popular PCH argument values for data vizualizations
 * [R color names](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)   
-* [Web scraping 101](https://cran.r-project.org/web/packages/rvest/vignettes/rvest.html) A vignette for the rvest R package  
+* [Web scraping 101](https://cran.r-project.org/web/packages/rvest/vignettes/rvest.html) - A vignette for the rvest R package  
 
 ## Supplemental Resources - Python Coding
 
