@@ -78,6 +78,7 @@ University of Virginia
 
 ## Supplemental Resources - R Coding
 
+* [Tidyverse vs. Base-R: How To Choose The Best Framework For You](https://towardsdatascience.com/tidyverse-vs-base-r-how-to-choose-the-best-framework-for-you-29b702bdb384) - The base R vs. tidyverse debate rages on!
 * [Static and Dynamic Web Scraping with R](https://tim-tiefenbach.de/post/2023-web-scraping/) - Over view of web scraping with R
 * [Nice self-contained data project example](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/) - CO2 Emissions Comparing and Modeling for Global Warming
 * [Presentations from So Cal R User Group Meetup](https://www.youtube.com/c/SouthernCaliforniaRUsersGroup) - Youtube channel for the So Cal R Users Group
