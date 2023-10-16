@@ -124,6 +124,7 @@ University of Virginia
 
 ## Supplemental Resources - Books
 
+* [Telling Stories with Data With Applications in R](https://tellingstorieswithdata.com/) - Excellent data science learning resource with heavy lean towards use case examples.
 * [Introduction to Statistical Learning with R](https://www.statlearning.com/) - Great book to use following this class.
 * [Introduction to Statistical Learning with Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - NEW! First printing Juyl 5, 2023. 
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible"
