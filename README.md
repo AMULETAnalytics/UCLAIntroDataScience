@@ -29,7 +29,6 @@ slides
 ## Supplemental Resources - General
 
 * [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
-* [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) - Replacing p-values with confidence intervals?
 * [Op-Ed: The real reason we’re afraid of robots](https://www.latimes.com/opinion/story/2020-07-26/artificial-intelligence-robots-psychology-fears) - Cogent Op-Ed relating to the "Killer AI" meme
 
 ## Supplemental Resources - Data Science
