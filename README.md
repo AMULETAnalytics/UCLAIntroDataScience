@@ -94,6 +94,7 @@ University of Virginia
 * [R Tutorials](https://www.guru99.com/r-tutorial.html) - Good R programming tutorials to read in parallel with weeks 1-4 of class
 * [Descriptive Statistics in R](https://www.statsandr.com/blog/descriptive-statistics-in-r/) - Good resource for Week 7 of class on EDA
 * [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/) - Intro to text analytics
+* [Unearthing Golden Nuggets of Data: A RegEx Treasure Hunt in R](https://medium.com/number-around-us/unearthing-golden-nuggets-of-data-a-regex-treasure-hunt-in-r-a017a7b0bf35) - RegEx tutorial in R with stringr
 * [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
 * [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
