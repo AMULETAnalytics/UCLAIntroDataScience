@@ -42,12 +42,9 @@ University of Virginia
 * [R vs Python! Which one should you choose for data science?](https://www.datasciencecentral.com/profiles/blogs/python-vs-r-which-one-should-you-choose-for-data-science#akash44256) - A balanced comparison of the two most popular data science languages
 * [Data Con LA 2022 Videos](https://www.youtube.com/playlist?list=PLJ9-HZ4pTg7q6GIUCRMj4iBocO054oibP) - Video presentations from the Data Con LA virtual conference
 * [Data Con LA 2022 Slides](https://www.slideshare.net/sawjd?utm_source=Data+Con+LA) - Slide presentations from the Data Con LA virtual conference
-* [Data Science Jobs Report 2020](https://365datascience.com/wp-content/uploads/2020/06/Data-Science-Jobs-Report-2020.pdf) - Useful employment research from 365DataScience
-* [Trends in Data Science 2019/2020](https://cdn2.hubspot.net/hubfs/1865444/ODSC%202020%20Trends.pdf) - Important industry trends from ODSC
 * [Data Scientist Resume: Template, Examples and Complete Guide](https://www.cleverism.com/data-scientist-resume/) - What a successful data science resume looks like
 * [insideBIGDATA "Ask a Data Scientist" Series](https://insidebigdata.com/2018/06/30/insidebigdata-ask-data-scientist-series/) - My popular educational series sponsored by Intel
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
-* [How to Get Your Data Science Career Started](https://www.forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started/#6dc0a75e7e5c) - Nice Forbes article on how jump start into Data Science
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
 * [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
 * [What is Data Science 'Impostor Syndrome'?](https://studyonline.unsw.edu.au/blog/what-is-data-science-impostor-syndrome) - Avoid the fear of what you don't know
@@ -94,6 +91,7 @@ University of Virginia
 * [R Tutorials](https://www.guru99.com/r-tutorial.html) - Good R programming tutorials to read in parallel with weeks 1-4 of class
 * [Descriptive Statistics in R](https://www.statsandr.com/blog/descriptive-statistics-in-r/) - Good resource for Week 7 of class on EDA
 * [Demystifying Regular Expressions in R](https://blog.rsquaredacademy.com/regular-expression-in-r/) - Intro to text analytics
+* [Text Data Analysis in R: Understanding grep, grepl, sub and gsub](https://mfatihtuzen.netlify.app/posts/2024-07-09_text_analyze/) - Practical use of regular expressions
 * [Unearthing Golden Nuggets of Data: A RegEx Treasure Hunt in R](https://medium.com/number-around-us/unearthing-golden-nuggets-of-data-a-regex-treasure-hunt-in-r-a017a7b0bf35) - RegEx tutorial in R with stringr
 * [Vignette: data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) - Data.table is an extension of data.frame package in R
 * [How Tidyverse Guides R Programmers Through Data Science Workflows](https://opendatascience.com/how-tidyverse-guides-r-programmers-through-data-science-workflows/) - A cohesive way of approaching data science projects
