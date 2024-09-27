@@ -5,17 +5,6 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 supplemental learning resources, eBooks, and other handouts. Additional content may be added 
 throughout the course. Past students are always welcome!
 
-## Course Content
-
-Course materials are categorized in the following folders:
-
-```
-code
-handouts
-homeworks
-quizzes
-slides
-
 ```
 
 ## Supplemental Resources - General
