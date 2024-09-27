@@ -5,14 +5,6 @@ UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Us
 supplemental learning resources, eBooks, and other handouts. Additional content may be added 
 throughout the course. Past students are always welcome!
 
-SPECIAL OFFER! My book publisher has offered to sell the textbook for our class with a special 25% off student discount. Just click [HERE](https://technicspub.com/machine-learning-and-data-science/) and use coupon code "Gutierrez2019" 
-
-
-
-
-
-
-
 ## Course Content
 
 Course materials are categorized in the following folders:
