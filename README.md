@@ -56,6 +56,7 @@ University of Virginia
 
 ## Supplemental Resources - R Coding
 
+* [R-universe](https://r-universe.dev/search) - The platform has steadily grown into a comprehensive infrastructure for publishing and discovering R material.
 * [R advantages over python](https://github.com/IyarLin/R-advantages-over-python/) - R has many advantages over python that should be taken into consideration when choosing which language to use for Data Science
 * [Time Series Analysis in R: How to Read and Understand Time Series Data](https://appsilon.com/r-time-series-analysis/) 
 * [Tidyverse vs. Base-R: How To Choose The Best Framework For You](https://towardsdatascience.com/tidyverse-vs-base-r-how-to-choose-the-best-framework-for-you-29b702bdb384) - The base R vs. tidyverse debate rages on!
