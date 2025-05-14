@@ -88,6 +88,7 @@ University of Virginia
 
 ## Supplemental Resources - Python Coding
 
+* [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) - Second edition of the popular book
 * [Intro to Python Programming](https://www.kaggle.com/learn/intro-to-programming) - Kaggle course on very basics of Python language
 * [An Introduction to Statistical Learning: with Applications in R... with Python!](https://botlnec.github.io/islp/) - Solutions to ISL exercises in Python
 * [Python Programming Tutorials](https://pythonprogramming.net/) - Many tutorial resources for Python coding for data science and machine learning
