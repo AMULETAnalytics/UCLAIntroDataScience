@@ -26,7 +26,6 @@ University of Virginia
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
 * [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
 * [What is Data Science 'Impostor Syndrome'?](https://studyonline.unsw.edu.au/blog/what-is-data-science-impostor-syndrome) - Avoid the fear of what you don't know
-* [Becoming a Data Scientist](https://towardsdatascience.com/becoming-a-data-scientist-when-dan-becker-pointed-out-i-had-it-all-wrong-86fb81397e8c) - Important pointers by head of Kaggle Learn, Dan Becker, Ph.D.
 * [Industrial Research in Applied Statistics- AMS](https://www.ams.org/journals/notices/201904/rnoti-p507.pdf) - Nice article about being a data scientist.
 * [6 Reasons Why Data Science Projects Fail](https://opendatascience.com/6-reasons-why-data-science-projects-fail/) - A report from down in the trenches.
 * [The Difference Between Data Scientists and Data Engineers](https://opendatascience.com/the-difference-between-data-scientists-and-data-engineers/) - A guide to becoming a unicorn.
