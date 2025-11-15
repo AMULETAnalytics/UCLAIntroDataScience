@@ -19,8 +19,6 @@ University of Virginia
 * [What Is Causal Inference? An Introduction for Data Scientists](https://www.oreilly.com/radar/what-is-causal-inference/) - A great intro to this growing area
 * [My Journey into AI Webinar](https://www.youtube.com/watch?v=gXluw4FxfKg) - Panel discussion hosted by DeepLearning.AI
 * [R vs Python! Which one should you choose for data science?](https://www.datasciencecentral.com/profiles/blogs/python-vs-r-which-one-should-you-choose-for-data-science#akash44256) - A balanced comparison of the two most popular data science languages
-* [Data Con LA Youtube channel](https://www.youtube.com/c/dataconla) - Video presentations from the Data Con LA annual conference
-* [Data Scientist Resume: Template, Examples and Complete Guide](https://www.cleverism.com/data-scientist-resume/) - What a successful data science resume looks like
 * [All my opendatascience.com articles](https://opendatascience.com/user/danielgutierrez/) - Many article keeping pace with the field of data science
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) - NEW! Resource for data scientists
 * [The Importance of SQL in Practicing Data Science](https://www.bbntimes.com/en/technology/the-importance-of-sql-in-practicing-data-science) - Reinforcing my advice in class!
