@@ -38,7 +38,6 @@ University of Virginia
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://github.com/szilard/GBM-intro) - GitHub repos with R and Python code
 * [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
 * [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
-* [Preventing undesirable behavior of intelligent machines](https://science.sciencemag.org/content/366/6468/999) - Cool research paper addressing the debate over machine learning bias
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
 * [Book Review: Deep Learning Revolution](https://insidebigdata.com/2019/03/05/book-review-deep-learning-revolution-by-terrence-j-sejnowski/) - Nice deep learning book for a general audience.
