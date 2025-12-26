@@ -96,6 +96,7 @@ University of Virginia
 
 ## Supplemental Resources - Statistics
 
+* [Regression Modeling Strategies](https://hbiostat.org/rmsc/) - A new 2025 resource for regression methods using R.
 * [All of Statistics: A Concise Course in Statistical Inference](https://www.stat.cmu.edu/~larry/all-of-statistics/) - A widely respected book on statistics with R code.
 * [The Book of R: A First Course in Programming and Statistics](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) - As mentioned in class, a great way to learn statistics.
 * [Do my data follow a normal distribution?](https://www.statsandr.com/blog/do-my-data-follow-a-normal-distribution-a-note-on-the-most-widely-used-distribution-and-how-to-test-for-normality-in-r/) - A note on the most widely used distribution and how to test for normality in R.
