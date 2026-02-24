@@ -76,7 +76,7 @@ University of Virginia
 * [Type conversion and you (or and R)](http://petewerner.blogspot.com/2013/09/type-conversion-and-you-or-and-r.html) - More examples on type conversion and coercion in R
 * [Essential list of useful R packages for data scientists](https://tomaztsql.wordpress.com/2020/04/27/essential-list-of-useful-r-packages-for-data-scientists/) - Great list of important R packages for data scientists
 * [R plot pch symbols : The different point shapes available in R](http://www.sthda.com/english/wiki/r-plot-pch-symbols-the-different-point-shapes-available-in-r) - An examination of all the popular PCH argument values for data vizualizations
-* [R color names](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) 
+* [R color names](https://www.scribd.com/doc/82070565/Colors-in-R) 
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)   
 * [Web scraping 101](https://cran.r-project.org/web/packages/rvest/vignettes/rvest.html) - A vignette for the rvest R package  
 
