@@ -1,8 +1,7 @@
 ![UCLA](https://amuletanalytics.files.wordpress.com/2019/03/unexintrodatascience_logo.png?w=614&h=149)
 
 # UCLA Extension - Introduction to Data Science
-UCLA Extension Introduction to Data Science (COM SCI X450.1) class materials. Use this repo to access 
-supplemental learning resources, eBooks, and other handouts. Additional content may be added 
+UCLA Extension Introduction to Data Science (COM SCI X450.1) and Exploratory Data Analysis and Visualization (COM SCI X450.2) class materials. Use this repo to access supplemental learning resources, eBooks, and other handouts. Additional content may be added 
 throughout the course. Past students are always welcome!
 
 ## Supplemental Resources - General
