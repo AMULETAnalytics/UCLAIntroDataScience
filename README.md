@@ -43,10 +43,6 @@ University of Virginia
 * [Evaluate your R model with MLmetrics](http://theautomatic.net/2020/01/29/evaluate-your-r-model-with-mlmetrics/) - Using R’s MLmetrics to evaluate machine learning models. MLmetrics provides several functions to calculate common metrics for ML models, including AUC, precision, recall, accuracy, etc.
 * [Assessment Metrics for Clustering Algorithms](https://opendatascience.com/assessment-metrics-clustering-algorithms/) - Metrics for clustering and unsupervised machine learning
 
-## Artifical Intelligence
-
-* [A Brief History of AI with Deep Learning](https://medium.com/@lmpo/a-brief-history-of-ai-with-deep-learning-26f7948bc87b) - A complete overview of the history of AI
-
 ## Supplemental Resources - R Coding
 
 * [R-universe](https://r-universe.dev/search) - The platform has steadily grown into a comprehensive infrastructure for publishing and discovering R material.
