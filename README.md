@@ -125,6 +125,7 @@ University of Virginia
 ## Excellent Class Project Examples - Past EDA and Dataviz Students
 
 * [Credit Card Fraud Detection: An Exploratory Data Analysis](https://github.com/kingsleeey/credit-card-fraud-eda-r) - Work done by student Kingsley Egei (Spring 2026)
+* [E-Commerce-Purchase-Conversion-Analysis]([https://github.com/kingsleeey/credit-card-fraud-eda-r](https://github.com/lzsst1220/-E-Commerce-Purchase-Conversion-Analysis)) - Work done by student Shuotong Li (Spring 2026)
 
 ## Authors
 
