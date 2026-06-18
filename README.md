@@ -108,7 +108,7 @@ University of Virginia
 * [Bookdown](https://bookdown.org/) - A collection of free eBooks on data science and R.
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Machine learning built on a foundation of probability theory.
 
-## Excellent Post-Class Project Examples - Past Students
+## Excellent Post-Class Project Examples - Past Intro to Data Sciencce Students
 
 * [Using NFL Analytics to Contextualize Player Performance & Predict Playoff Probability](https://github.com/JL-Doge/COMSCI450.1) - Work done by student Jesse Lubell (Summer 2021)
 * [Analysis of Reptile & Amphibian Observations in Los Angeles County](https://github.com/tbstegman/Analysis_of_Reptile_and_Amphibian_data) - Work done by student Timothy Stegman (Fall 2020)
@@ -122,6 +122,9 @@ University of Virginia
 * [FIVB Beach Volleyball Historic Top 8 Teams Analysis](https://github.com/tyler-widdison/FIVB-Beach-Volleyball-Historic-Top-8-Teams-Analysis) - Work done by student Tyler Widdison (Fall 2019)
 * [Data Analysis for PM2.5 in Beijing](https://github.com/Xiaozhu-Zhang1998/Data-Analysis-for-Beijing-PM2.5) - Work done by student Xiaozhu Zhang (Spring 2019)
 
+## Excellent Class Project Examples - Past EDA and Dataviz Students
+
+* [Credit Card Fraud Detection: An Exploratory Data Analysis](https://github.com/kingsleeey/credit-card-fraud-eda-r) - Work done by student Kingsley Egei (Spring 2026)
 
 ## Authors
 
