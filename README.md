@@ -45,7 +45,7 @@ University of Virginia
 * [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
 * [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
 * [TidyverseSkeptic](https://matloff.github.io/TidyverseSkeptic/Skeptic.html) - Tidyverse Skeptic essay by Norm Matloff
-* [useR! Conference](https://user2021.r-project.org/) - Premiere global R conference
+* [useR! Conference](https://user2026.r-project.org/) - Premiere global R conference
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
 * [Python vs R in Data Science: Which one is better?](https://medium.com/@etirismagazine/python-vs-r-in-data-science-which-one-is-better-75f2d5fbb20a) - Balanced overview of the R and Python data science programming languages
 * [R vs Python: Different similarities and similar differences](https://gigadom.in/2017/05/22/r-vs-python-different-similarities-and-similar-differences/) - Nice cross-comparison of the R and Python data science programming languages
