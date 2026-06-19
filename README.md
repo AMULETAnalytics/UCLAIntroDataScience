@@ -25,7 +25,6 @@ University of Virginia
 * [A UseR’s Introduction to Machine Learning in AWS](https://youtu.be/08VI3rRzT1o) - Nice Youtube presentation for doing ML on AWS with R
 * [The Hitchhiker’s Guide to Responsible Machine Learning](https://betaandbit.github.io/RML/#p=1) - Educational comic book
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) - Nice learning resource by Max Kuhn and Kjell Johnson
-* [2020 Outlook on AutoML Updates & Latest Recent Advances](https://opendatascience.com/2020-outlook-on-automl-updates-latest-recent-advances/) - Latest authoritative list of AutoML tools and frameworks
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://docs.google.com/presentation/d/1WdQajKNeJR5gJs437XUuLksBJPm4rowdzH3i1vEWTHA/edit#slide=id.g58411bbf6a_0_15) - Slides from a great Meetup
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://github.com/szilard/GBM-intro) - GitHub repos with R and Python code
 * [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
