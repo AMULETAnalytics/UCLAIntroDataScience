@@ -4,11 +4,6 @@
 UCLA Extension Introduction to Data Science (COM SCI X450.1) and Exploratory Data Analysis and Visualization (COM SCI X450.2) class materials. Use this repo to access supplemental learning resources, eBooks, and other handouts. Additional content may be added 
 throughout the course. Past students are always welcome!
 
-## Supplemental Resources - General
-
-* [Becoming a machine learning company means investing in foundational technologies](https://www.oreilly.com/ideas/becoming-a-machine-learning-company-means-investing-in-foundational-technologies) - Companies successfully adopt machine learning either by building on existing data products and services, or by modernizing existing models and algorithms
-* [Op-Ed: The real reason we’re afraid of robots](https://www.latimes.com/opinion/story/2020-07-26/artificial-intelligence-robots-psychology-fears) - Cogent Op-Ed relating to the "Killer AI" meme
-
 ## Supplemental Resources - Data Science
 
 * [UVA Data Points: a podcast exploring the world of data science](https://uvadatapoints.castos.com/) - Cool podcast from School of Data Science,
