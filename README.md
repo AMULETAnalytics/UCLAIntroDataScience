@@ -44,7 +44,6 @@ University of Virginia
 * [Presentations from So Cal R User Group Meetup](https://www.youtube.com/c/SouthernCaliforniaRUsersGroup) - Youtube channel for the So Cal R Users Group
 * [How to Create a Dataframe in R with 30 Code Examples](https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/) - Useful data frame tutorial in R
 * [Getting started simulating data in R: some helpful functions and how to use them](https://aosmith.rbind.io/2018/08/29/getting-started-simulating-data/) - Nice blog article on simulated data in R
-* [R for Data Science](https://r4ds.had.co.nz/) - Official Tidyverse book by Hadley Wickham
 * [TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic) - Tidyverse Skeptic essay by Norm Matloff
 * [useR! Conference](https://user2021.r-project.org/) - Premiere global R conference
 * [Book R code](https://github.com/AMULETAnalytics/IntroMachineLearning) - R code for my book "Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
