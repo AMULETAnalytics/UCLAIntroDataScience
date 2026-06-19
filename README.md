@@ -27,7 +27,6 @@ University of Virginia
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) - Nice learning resource by Max Kuhn and Kjell Johnson
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://docs.google.com/presentation/d/1WdQajKNeJR5gJs437XUuLksBJPm4rowdzH3i1vEWTHA/edit#slide=id.g58411bbf6a_0_15) - Slides from a great Meetup
 * [Data Science Meetup (Feb. 26, 2020) Gradient Boosting Machines (GBM): From Zero to Hero](https://github.com/szilard/GBM-intro) - GitHub repos with R and Python code
-* [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92) - Great article that drills down into unsupervised machine learning clustering 
 * [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
