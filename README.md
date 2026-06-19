@@ -30,7 +30,6 @@ University of Virginia
 * [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/abs/1910.03225) - HOT new machine learning algorithm using boosting 
 * [VIDEO presentation from LA West R Meetup group](https://youtu.be/HMpI4-LB7UA) - Better Than Deep Learning Gradient Boosting Machine 2019
 * [Linear Regression with Healthcare Data for Beginners in R](https://datascienceplus.com/linear-regression-with-healthcare-data-for-beginners-in-r/) - Nice starter exercise for newbie data scientists
-* [Book Review: Deep Learning Revolution](https://insidebigdata.com/2019/03/05/book-review-deep-learning-revolution-by-terrence-j-sejnowski/) - Nice deep learning book for a general audience.
 * [Evaluate your R model with MLmetrics](http://theautomatic.net/2020/01/29/evaluate-your-r-model-with-mlmetrics/) - Using R’s MLmetrics to evaluate machine learning models. MLmetrics provides several functions to calculate common metrics for ML models, including AUC, precision, recall, accuracy, etc.
 * [Assessment Metrics for Clustering Algorithms](https://opendatascience.com/assessment-metrics-clustering-algorithms/) - Metrics for clustering and unsupervised machine learning
 
