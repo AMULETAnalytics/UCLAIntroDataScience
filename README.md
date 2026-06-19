@@ -84,8 +84,7 @@ University of Virginia
 
 ## Supplemental Resources - Books
 
-* [Introduction to Statistical Learning with R](https://www.statlearning.com/) - Great book to use following this class.
-* [Introduction to Statistical Learning with Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - NEW! First printing Juyl 5, 2023. 
+* [Introduction to Statistical Learning with R](https://www.statlearning.com/) - Great book on ML to use following this class.
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - The "Machine Learning Bible."
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Wonderful all-in-one text for getting up to speed with the mathematics required for machine learning.
 * [Linear Algebra Done Right](https://linear.axler.net/) - ML is all about Linear Algebra. Great learning resource.
